@@ -1,0 +1,42 @@
+#pmon {
+	width: 625px;
+	height: auto;
+	padding:0px;
+	margin-left: 200px;
+	padding-left: 20px;
+	display: inline-block;
+	border: 1px solid black;
+}
+body {
+	background-color: #d64d4d;
+}
+#info {
+	width: auto;
+	height: auto;
+	background-color: white;
+	display: inline-block;
+	border-radius: 10px;
+	vertical-align: top;
+	margin-left: 30px;
+	/*border: 5px solid #4c60d3;*/
+	padding-left: 30px;
+	padding-right: 30px;
+
+}
+#head {
+	width: 1100px;
+	height: 120px;
+	background-color: #4c60d3;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	border-radius: 20px;
+	text-align: center;
+	line-height: 120px;
+}
+h1 {
+	font-size: 80px;
+}
+#pic {
+
+	border:1px solid black;
+}
